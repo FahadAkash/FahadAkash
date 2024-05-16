@@ -191,7 +191,7 @@
  
 
 
-![3D Profile](https://github.com/FahadAkash/FahadAkash/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/FahadAkash/FahadAkash/blob/main/img/profile-night-rainbow.svg)
  
 
 
