@@ -83,9 +83,10 @@
 #
 
 
+<p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
+
 <br/>
 
-<p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
 
 <details open="">
 <summary>
