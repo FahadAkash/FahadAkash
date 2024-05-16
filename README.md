@@ -85,6 +85,7 @@
 
 <br/>
 
+<p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
 
 <details open="">
 <summary>
@@ -103,6 +104,7 @@
 </p>
 </details>
 <br>
+
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=FahadAkash&theme=react-dark&hide_border=true&area=true)
