@@ -9,8 +9,7 @@
 
 <p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+software+engineer+with+true+passion;A+Game+Developer+with+true+passion;A+Content+Creator+with+true+passion;A++Gamer+with+true+passion;A++Web+Developer+with+true+passion;An++App+Developer+with+true+passion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=500&lines=A+software+engineer+with+true+passion;A+Game+Developer+with+true+passion;A+Content+Creator+with+true+passion;A++Gamer+with+true+passion;A++Web+Developer+with+true+passion;An++App+Developer+with+true+passion)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on **'AR/VR Development'**
