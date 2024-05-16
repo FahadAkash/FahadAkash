@@ -83,7 +83,6 @@
 #
 
 
-<p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
 
 <br/>
 
@@ -136,6 +135,8 @@
 ```
 
 </h4>  
+
+<p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/FahadAkash/FahadAkash/blob/main/github-contribution-grid-snake.svg)
 
