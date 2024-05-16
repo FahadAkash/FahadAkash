@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fahad Akash</h1>
 <h3 align="center">A passionate Game Developer and Video Content Creator</h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://raw.githubusercontent.com/FahadAkash/FahadAkash/728616ab2c12e44baa0ed403744af6b05a9bae29/img/grid-snake.svg)"
+       alt="snake" /></a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadakash&label=Profile%20views&color=0e75b6&style=flat" alt="fahadakash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadakash" alt="fahadakash" /></a> </p>
