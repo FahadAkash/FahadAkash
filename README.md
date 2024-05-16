@@ -190,7 +190,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| VR/AR Developer | [BLI](https://www.linkedin.com/company/decimaltech/) | Feb 2023 - Current |
+| VR/AR Developer | [BLI](https://batterylowinteractive.com/) | Feb 2023 - Current |
 | Game Developer | [Crisis](https://www.facebook.com/crisisentertainmentltd/) | Mar 2022 - May 2022 |
  
 
