@@ -7,14 +7,14 @@
 <br/>
 <br/>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/animation_500_kxa883sd.gif" alt="FahadAkash" /></p>
 
 
 
 - 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](#) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
@@ -194,11 +194,7 @@
 
 
 
-
-
- Last Updated on 20/04/2024
-<!--END_SECTION:waka-->
-
+ 
 
 <p align="center">
   <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
@@ -218,7 +214,7 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+  <a href="https://bd.linkedin.com/in/fahadakash" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
