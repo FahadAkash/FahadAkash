@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/FahadAkash/FahadAkash/blob/main/img/fahadakash.png"/> 
+</p>
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;Game Developers/&gt;!
