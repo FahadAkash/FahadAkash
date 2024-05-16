@@ -10,6 +10,7 @@
 <p><img align="right" height="250" width="300" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="FahadAkash" /></p>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=520&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on **'AR/VR Development'**
@@ -227,8 +228,10 @@
 
 <br/>
 <br/>
+ <br/>
  
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&height=300&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%2C+%3CGame+Developers%2F%3E!;I+Have+3%2B+years+of+experience+in+Game+Development;I+am+actively+contributes+to+open-source+projects+on+GitHub;I+am+a+creative+innovator+and+digital+storyteller.;My+work+blends+technical+prowess+with+artistic+vision;crafting+immersive+experiences+for+gamers+around+the+world;My+content+captivates+and+connects;pushing+the+boundaries+of+imagination+and+technology+to+leave+my+unique+mark+on+the+gaming+universe.)](https://git.io/typing-svg)
+
 ![footer](https://github.com/FahadAkash/FahadAkash/blob/main/WEBP/footer.webp)
 
  
