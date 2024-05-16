@@ -199,11 +199,12 @@
 
 <h1 align="center">
   Connect With Me
-  #
+ 
   <a target="_blank">
     <img src="https://github.com/FahadAkash/FahadAkash/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
+
 <p align="center">
   <a href="https://bd.linkedin.com/in/fahadakash"><img alt="Linkedin" title="FahadAkash Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/FahadAkash"><img alt="Github" title="Fahad Akash Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
