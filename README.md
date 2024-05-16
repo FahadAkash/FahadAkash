@@ -237,18 +237,10 @@
 </p>
 
 
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
+ 
 
 #
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
-
------
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
-
-**Last Edited on**: 20/04/2024
+ 
