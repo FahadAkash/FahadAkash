@@ -58,27 +58,28 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/61319844/156958933-738422d2-8137-4652-9b71-2cb079b31722.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" align="center" src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png"></code>
+<code><img height="40" width="40" align="center" src="https://user-images.githubusercontent.com/61319844/156958933-738422d2-8137-4652-9b71-2cb079b31722.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" align="center" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" align="center" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
+<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 #
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 #
 
 
