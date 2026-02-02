@@ -42,11 +42,6 @@
 #
 
  
-<p align="center">
-  <img height="150" width="150" src="https://github.com/FahadAkash/FahadAkash/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahadAkash&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/FahadAkash/FahadAkash/blob/main/WEBP/right.webp">
-</p>
 
 #
 
@@ -92,8 +87,7 @@
 
 <details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
 
