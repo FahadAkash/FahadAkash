@@ -1,16 +1,12 @@
-<div align="center">
-  
-![Header Banner](https://github.com/FahadAkash/FahadAkash/blob/main/img/fahadakash.png)
+<p align="center">
+  <img src="https://github.com/FahadAkash/FahadAkash/blob/main/img/fahadakash.png"/> 
+</p>
 
-<h1>
-  <img src="GIF/Earth.gif" width="30px" alt="Earth">
-  𝐇𝐞𝐥𝐥𝐨, &lt;Cloud Architects/&gt;!
-  <img src="GIF/Hi.gif" width="45px" alt="Wave">
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;Game Developers/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=500&lines=Cloud+Computing+Engineer;Backend+Developer;Problem+Solver;System+Architect;DevOps+Specialist;Scalability+Expert)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
 <br/>
@@ -20,42 +16,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=500&lines=A+software+engineer+with+true+passion;A+Game+Developer+with+true+passion;A+Content+Creator+with+true+passion;A++Gamer+with+true+passion;A++Web+Developer+with+true+passion;An++App+Developer+with+true+passion)](https://git.io/typing-svg)
 
 
-## 🌟 About Me
+- 🔭 I’m currently working on **'AR/VR Development'**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **App Development**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **App Developers and AR/VR/MR Developers**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](#) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
-<div align="center">
-  <img align="right" height="280" width="320" src="https://github.com/FahadAkash/FahadAkash/blob/main/img/games.gif" alt="Cloud Computing" />
-</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-```javascript
-const fahadAkash = {
-  profession: "Cloud Solutions Architect & Backend Engineer",
-  passion: "Building scalable distributed systems",
-  currently: "Cloud Infrastructure & Microservices Architecture",
-  learning: "Advanced Cloud Security & Serverless Computing",
-  collaboration: "Open to collaborate on cloud-native projects",
-  expertise: "Solving real-world scalability and performance challenges"
-};
-```
 
-### 🚀 Current Focus
-- 🔭 **Working on:** Cloud-native applications and distributed systems
-- 🌱 **Learning:** Advanced Kubernetes, cloud security, and serverless architectures
-- 👯 **Looking to collaborate:** With cloud engineers and backend developers
-- 💬 **Ask me about:** Cloud computing, system design, backend development, or infrastructure scaling!
-
----
-
-## 🏆 GitHub Stats & Achievements
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=FahadAkash&style=flat&color=blue) • 
-[![Top Committer](https://user-badge.committers.top/india_private/GovindSingh9447.svg)](https://user-badge.committers.top/india_private/GovindSingh9447) •
-![GitHub Followers](https://img.shields.io/github/followers/FahadAkash?label=Followers&style=social) •
-![GitHub Stars](https://img.shields.io/github/stars/FahadAkash?label=Stars) •
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/FahadAkash)
-
-</div>
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=FahadAkash&style=flat&color=blue"> •   
+  <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/FahadAkash?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/FahadAkash?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/FahadAkash"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
 
 #
@@ -74,69 +55,65 @@ const fahadAkash = {
 
 
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GitHub Animation" src="https://github.com/FahadAkash/FahadAkash/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/FahadAkash/FahadAkash/blob/master/GIF/github.gif"></a>
 <br/>
 
-## 🛠️ Technologies & Tools
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<br/>
+<br/>
 
-### Cloud & Backend Technologies
-
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="C#"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
-<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="MongoDB"></code>
-
-### Cloud Platforms & Infrastructure
-
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="Google Cloud"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nginx/nginx.png" alt="Nginx"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elasticsearch/elasticsearch.png" alt="Elasticsearch"></code>
-<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rabbitmq/rabbitmq.png" alt="RabbitMQ"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" align="center" src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png"></code>
+<code><img height="40" width="40" align="center" src="https://user-images.githubusercontent.com/61319844/156958933-738422d2-8137-4652-9b71-2cb079b31722.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" align="center" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" align="center" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
+<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+#
+<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" align="center" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+#
 
 
 
 <br/>
 
 
-## 📊 GitHub Statistics
-
-<details open>
+<details open="">
 <summary>
-  📈 <strong>GitHub Stats</strong>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/FahadAkash">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FahadAkash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/FahadAkash">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadAKash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
-</div>
+</p>
 </details>
-
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadAkash&theme=react-dark&hide_border=true&area=true)
 
----
 
-## 💭 Philosophy & Code
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=FahadAkash&theme=react-dark&hide_border=true&area=true)
 
-<div align="center">
+
+<h4 align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -160,20 +137,10 @@ const fahadAkash = {
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</div>
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
 </h4>  
  
   
-![GitHub Contribution Graph](https://github.com/FahadAkash/FahadAkash/blob/main/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/FahadAkash/FahadAkash/blob/main/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -224,52 +191,36 @@ const fahadAkash = {
 
 <br> <br>
 
-## 🚀 Work Experience
+## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
 
-| 💼 Designation | 🏢 Organization | ⏰ Timeline |
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Cloud Solutions Architect | [TechInnovate Solutions](https://techinnovate.com/) | Jan 2023 - Current |
-| Senior Backend Engineer | [DataFlow Systems](https://dataflow.com/) | Jun 2021 - Dec 2022 |
-| DevOps Engineer | [CloudScale Technologies](https://cloudscale.com/) | Mar 2020 - May 2021 |
+| VR/AR Developer | [BLI](https://batterylowinteractive.com/) | Feb 2023 - Current |
+| Game Developer | [Crisis](https://www.facebook.com/crisisentertainmentltd/) | Mar 2022 - May 2022 |
  
   
-## 🤝 Let's Connect
+<br/>
+<h1 align="center">
+  Connect With Me
+ 
+  <a target="_blank">
+    <img src="https://github.com/FahadAkash/FahadAkash/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
 
-<div align="center">
-<a href="https://bd.linkedin.com/in/fahadakash">
-  <img alt="LinkedIn" title="FahadAkash LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/FahadAkash">
-  <img alt="GitHub" title="Fahad Akash GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.youtube.com/@FahadAkash">
-  <img alt="YouTube" title="Fahad Akash Channel" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://www.facebook.com/fahadakashni/">
-  <img alt="Facebook" title="Fahad Akash Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://www.instagram.com/fahadakashdev/">
-  <img alt="Instagram" title="Fahad Akash Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="mailto:fahadakash12@gmail.com">
-  <img alt="Gmail" title="FahadAkash Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="#">
-  <img alt="Telegram" title="Fahad Akash Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="#">
-  <img alt="Twitter" title="Fahad Akash Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="#">
-  <img alt="Google Cloud" title="Fahad Akash" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://bd.linkedin.com/in/fahadakash"><img alt="Linkedin" title="FahadAkash Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/FahadAkash"><img alt="Github" title="Fahad Akash Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@FahadAkash"><img alt="Fahad Akash" title="Fahad Akash SC" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.facebook.com/fahadakashni/"><img alt="Facebook" title="Fahad Akash FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/fahadakashdev/"><img alt="Instagram" title="Fahad Akash Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:fahadakash12@gmail.com"><img alt="Gmail" title="FahadAkash Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img alt="Telegram" title="Fahad Akash Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="#"><img alt="Twitter" title="Fahad Akash Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="#"><img alt="Qwiklabs" title="Fahad Akash" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+</p>
 
  
 
@@ -278,8 +229,8 @@ const fahadAkash = {
 <br/>
  
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&height=300&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%2C+%3CGame+Developers%2F%3E!;I+Have+3%2B+years+of+experience+in+Game+Development;I+am+actively+contributes+to+open-source+projects+on+GitHub;I+am+a+creative+innovator+and+digital+storyteller.;My+work+blends+technical+prowess+with+artistic+vision;crafting+immersive+experiences+for+gamers+around+the+world;My+content+captivates+and+connects;pushing+the+boundaries+of+imagination+and+technology+to+leave+my+unique+mark+on+the+gaming+universe.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&height=300&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8%2C+%3CCloud+Architects%2F%3E!;I+Have+5%2B+years+of+experience+in+Cloud+Computing;I+solve+real-world+scalability+problems+at+scale;I+design+robust+backend+systems+and+APIs;My+work+focuses+on+high-performance+distributed+systems;I+architect+cloud-native+solutions+for+enterprise;Building+reliable+infrastructure+that+scales+globally;Solving+complex+technical+challenges+with+elegant+solutions.)](https://git.io/typing-svg)
+![footer](https://github.com/FahadAkash/FahadAkash/blob/main/WEBP/footer.webp)
 
-![Footer](https://github.com/FahadAkash/FahadAkash/blob/main/WEBP/footer.webp)
+ 
