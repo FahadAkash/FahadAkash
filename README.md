@@ -15,6 +15,11 @@
 
 > Deep in cloud-native development mode – architecting scalable distributed systems and creating educational content. With a background in game development using C#, .NET, and Unity, and 5+ years building enterprise backend solutions, I bring creative problem-solving to modern infrastructure challenges.
 
+## 🌟 Featured Projects
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfollio.fahadakash.com/)
+[![Courses](https://img.shields.io/badge/-Courses-FF6B35?style=for-the-badge&logo=educative&logoColor=white)](https://course.fahadakash.com)
+
 ## Current Projects
 
 ### 🚀 **Enterprise Cloud Solutions**
@@ -63,11 +68,9 @@
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfollio.fahadakash.com/)
-[![Courses](https://img.shields.io/badge/-Courses-FF6B35?style=flat-square&logo=educative&logoColor=white)](https://course.fahadakash.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FahadAkash)
 [![LinkedIn](https://img.shields.io/badge/-Fahad_Akash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/fahadakash)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FahadAkash)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FahadAkash)
 [![Twitter](https://img.shields.io/badge/-@fahadakash-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fahadakash)
 [![Email](https://img.shields.io/badge/-fahadakash12@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fahadakash12@gmail.com)
 
