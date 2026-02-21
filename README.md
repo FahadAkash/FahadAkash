@@ -22,6 +22,14 @@
 
 ## Current Projects
 
+### 🧩 **My SaaS Projects**
+- **[Adda Khana](https://adda.fahadakash.com)** - Adda Khana is a real-time video chat application designed specifically for developers, connecting programmers with similar interests and skill levels. Think of it as "Omegle for Programmers" with a focus on meaningful technical conversations.
+- **[DESR - Digital Enhanced Service Restaurant](https://desr-beta.vercel.app/)** - A comprehensive full-stack solution for modern restaurant digital transformation, featuring augmented reality menu visualization, real-time ordering, and table management.
+- **[fluxshare](https://fluxshare.fahadakas-batterylowinteractive.workers.dev/)** - Secure, serverless, peer-to-peer file sharing. Transfer files of any size directly between devices. No servers. No limits. No logs.
+- **[pastelOS engine](https://computer.fahadakash.com/)** - pastelOS is a secure operating system for testing SaaS projects without installing local APKs or apps onto your device.
+
+
+
 ### 🚀 **Enterprise Cloud Solutions**
 - **[LocalStack](https://github.com/FahadAkash/LocalStack)** - Enterprise-grade mock API platform for OpenAI, Anthropic, Google Gemini. Develop, Test, and Scale AI Agents locally without burning API credits.
 - **[agent-framework](https://github.com/FahadAkash/agent-framework)** - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
@@ -38,6 +46,10 @@
 - **[FlaxEngine-Fork](https://github.com/FahadAkash/FlaxEngine-Fork)** - BengalForge Engine – multi-platform 3D game engine
 - **[AngryBall](https://github.com/FahadAkash/AngryBall)** - Game made with Flax engine
 - **[Ball-Break](https://github.com/FahadAkash/Ball-Break)** - Game created for YouTube tutorial series
+- **[CORRUPTION'S END](https://game.fahadakash.com/)** - Fighting game — স্ট্রীট ফাইটিং অ্যাকশন. Experience intense urban combat in the heart of Dhaka with a unique cast of Bangladeshi fighters. অদ্বিতীয় চরিত্রসমূহ: Choose from diverse fighters, each representing the spirit and grit of the Bangladeshi streets. Epic Battles: Master devastating combos and special abilities to dominate the streets and end the corruption.
+- **[All Games on itch.io](https://fahadakash.itch.io/)** - Browse all my published games and demos on itch.io.
+ - **Bowl Booster VR** - BatteryLow Interactive developed the ultimate VR experience, Bowl Booster, for Chopstick Instant Noodles at the Dhaka International Trade Fair 2024. From the young to the young at heart, everyone soaked up the thrill and excitement of this immersive VR game, winning fantastic prizes and creating unforgettable memories along the way.
+ - **Crime Investigation Simulator** - Built for the Center of Military Police - Bangladesh Army. A simulation game used for training and demonstration. Watch a demo: https://www.youtube.com/watch?v=-Y1H1KdEZKQ
 
 ### 🌐 **Web & Application Development**
 - **[Ecommerze](https://github.com/FahadAkash/Ecommerze)** - E-commerce website using ASP.NET Core and React
